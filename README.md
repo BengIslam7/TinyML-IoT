@@ -35,7 +35,7 @@ TinyML refers to the deployment of machine learning models on **resource-constra
 * Low latency
 * Offline capability
 * Reduced power and network dependency
-  Even with limited CPU/RAM resources, TinyML can perform predictive tasks or detect anomalous patterns in sensor streams. ([GitHub][2])
+  Even with limited CPU/RAM resources, TinyML can perform predictive tasks or detect anomalous patterns in sensor streams.
 
 ---
 
